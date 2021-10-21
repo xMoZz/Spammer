@@ -30,7 +30,7 @@ def Main():
     for i in range(0,x):
         pyautogui.typewrite(y + '\n')
 
-    pyautogui.typewrite("Spammer by xMoZz" + '\n')
+    pyautogui.typewrite("https://github.com/xMoZz/Spammer" + '\n')
 
     Repeat()
 
