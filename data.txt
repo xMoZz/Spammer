@@ -1,0 +1,501 @@
+---> Insert Text below: <---
+velle, volo, vis, volui
+wollen
+
+
+nolle, nolo, non vis, nolui
+nicht wollen
+
+
+verus, vera, verum
+wahr, echt
+
+
+promittere, promitto, promisi, promissum
+versprechen
+
+
+sperare, spero, speravi, speratum
+hoffen, erhoffen
+
+
+praebere, praebeo, praebui, praebitum
+bieten, anbieten, geben
+
+
+scientia, scientiae, f.
+Wissen, Kenntnis
+
+
+usus, usus, m.
+Nutzen, Gebrauch
+
+
+usui esse   nützlich sein
+
+
+veritas, veritatis, f.
+Wahrheit
+
+
+credere, credo, credidi, creditum
+glauben
+
+
+inde
+von da an, von dort
+
+
+tollere, tollo, sustuli, sublatum
+heben, aufheben, erheben
+
+
+ardere, ardeo, arsi
+brennen
+
+
+tacere, taceo, tacui
+schweigen
+
+
+interire, intereo, interii, interitum
+sterben, untergehen
+
+
+errare, erro, erravi, erratum
+irren, sich irren
+
+
+orare, oro, oravi, oratum
+bitten, erbitten, beten
+
+
+causa, causae, f.
+Grund, Ursache
+
+
+causa (nach Genitiv)
+wegen, um zu
+
+poeta, poetae, m.
+Dichter
+
+
+pervenire, pervenio, perveni, perventum
+kommen, gelangen
+
+
+inire, ineo, inii, initum
+hineingehen, betreten
+
+
+exitus, exitus m.
+Ausgang, Ende, Tod
+
+
+dulcis, e
+süß
+
+
+forte (adv)
+zufällig
+
+
+postulare, postulo, postulavi, postulatum
+fordern
+
+
+gratia, gratiae, f.
+Dank
+
+
+gratias agere
+Dank sagen, danken
+
+
+tandem
+endlich, schließlich
+
+
+plenus, -a, -um
+voll (mit/von)
+
+
+ignis, ignis, m.
+Feuer
+
+
+sumere, sumo, sumpsi, sumptum
+nehmen
+
+
+frons, frontis, f.
+Stirn
+
+
+laedere, laedo, laesi, laesum
+verletzen
+
+
+vero
+aber
+
+
+constat, constitit
+es steht fest (+ ACI: dass)
+
+
+posterus, -a, -um
+folgend, nachfolgend
+
+
+postero die
+am folgenden Tag
+
+
+diligens, diligentis
+sorgfältig, genau
+
+
+prodesse, prosum, profui, -
+nützen
+
+
+incendium, incendii, n.
+Brand, Feuer
+
+
+princeps, principis, m.
+der Erste, Prinzeps, Kaiser
+
+
+gravis, grave
+schwer, schwerwiegend
+
+
+exsistere, exsisto, exstiti
+entstehen
+
+
+auctor, auctoris, m.
+Autor, Urheber, Anstifter
+
+
+vastare, vasto, vastavi, vastatum
+verwüsten
+
+
+numerus, numeri, m.
+Zahl, Anzahl
+
+
+privatus, privata, privatum
+privat, persönlich
+
+
+publicus, publica, publicum
+öffentlich, staatlich
+
+
+fama, famae, f.
+Gerücht, Ruf
+
+
+fama erat
+es gab das Gerücht
+
+
+magnitudo, magnitudinis, f.
+Größe
+
+
+ornare, orno, ornavi, ornatum
+schmücken
+
+
+postea
+später, danach
+
+
+appellare, appello, appellavi, appellatum
+nennen, rufen
+
+
+cupidus, cupida, cupidum
+gierig, gierig nach
+
+
+cupidus gloriae
+gierig nach Ruhm
+
+
+condere, condo, condidi, conditum
+gründen
+
+
+usque ad
+bis zu
+
+
+iussu
+auf Befehl
+
+
+Christiani, Christianorum, m.
+Christen
+
+
+crimen, criminis, n.
+Verbrechen, Vorwurf
+
+
+accusare, accuso, accusavi, accusatum
+anklagen
+
+
+quasi
+gleichsam als, wie
+
+
+sanctus, a, um
+heilig
+
+
+cultus, cultus m.
+Verehrung
+
+
+dubitare, dubito, dubitavi, dubitatum
+zögern, zweifeln
+
+
+commovere, commoveo, commovi, commotum
+bewegen, veranlassen
+
+
+fuga, fugae, f.
+Flucht
+
+
+proximus, a, um
+der nächste
+
+
+repente (adv.)
+plötzlich
+
+
+obviam (adv.)
+entgegen
+
+
+videtur (+ Inf.)
+er/sie/es scheint
+
+
+dominus, domini, m.
+Herr
+
+
+quo
+wohin
+
+
+vadere, vado
+gehen
+
+
+dicitur (+ Inf.)
+er/sie/es soll (angeblich)
+
+
+lacrima, lacrimae, f.
+Träne
+
+
+referre, refero, rettuli, relatum
+zurückbringen, berichten
+
+
+sic
+so
+
+
+salus, salutis, f.
+Heil, Rettung, Gruß
+
+
+mundus, mundi, m.
+Welt
+
+
+dignus, -a, -um
+würdig
+
+
+dividere, divido, divisi, divisum
+teilen, trennen
+
+
+transire, transeo, transii, transitum
+hinübergehen, überqueren
+
+
+gens, gentis, f.
+Volk
+
+
+traducere, traduco, traduxi, traductum
+hinüberführen
+
+
+adhuc
+bis jetzt, bisher
+
+
+felix, felicis
+glücklich, erfolgreich
+
+
+fortuna, fortunae, f.
+Glück, Schicksal
+
+
+eques, equitis, m.
+Reiter, Ritter
+
+
+campus, campi, m.
+Feld
+
+
+aestas, aestatis, f.
+Sommer
+
+
+deesse, desum, defui
+fehlen
+
+
+fessus, fessa, fessum
+müde, erschöpft
+
+
+vix
+kaum
+
+
+ullus, ulla, ullum
+irgendein, irgendeine
+
+
+spes, spei, f.
+Hoffnung
+
+
+fore, futurum esse
+sein werden
+
+
+rogare, rogo, rogavi, rogatum
+bitten, fragen
+
+
+divinus, divina, divinum
+göttlich
+
+
+ecce, ecce!
+siehe, siehe!
+
+
+miraculum, miraculi, n.
+Wunder
+
+
+accidere, accido, accidi
+geschehen
+
+
+victor, victoris, m.
+siegreich, Sieger
+
+
+civilis, -e
+bürgerlich, Bürger-
+
+
+metuere, metuo, metui, -
+fürchten
+
+
+oraculum, oraculi, n.
+Orakel, Orakelspruch
+
+
+extra (+ Akk.)
+außerhalb
+
+
+uterque, utraque, utrumque (Gen. utriusque, Dat. utrique)
+jeder von beiden, beide
+
+
+notus, -a, -um
+bekannt
+
+
+signum, signi n.
+Zeichen
+
+
+scribere, scribo, scripsi, scriptum
+schreiben
+
+
+prope (+ Akk.)
+nahe bei
+
+
+pons, pontis, m.
+Brücke
+
+
+plebs, plebis, f.
+(niedriges) Volk
+
+
+causa, -ae, f.
+Grund, Ursache
+
+
+qua de causa
+deshalb, weshalb
+
+
+consulere, consulo, consului, consultum
+befragen, um Rat fragen
+
+
+nuntiare, nuntio, nuntiavi, nuntiatum
+melden
+
+
+hodie (adv.)
+heute
+
+
+adducere, adduco, adduxi, adductum
+hinführen, veranlassen
+
+
+studium, studii, n.
+Eifer, Begeisterung
+
+
+premere, premo, pressi, pressum
+drücken, bedrängen
+
+
+pellere, pello, pepuli, pulsum
+schlagen, stoßen
